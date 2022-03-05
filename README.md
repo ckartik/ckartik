@@ -1,6 +1,6 @@
 Hi there 👋
 - By day I work on Web 2 payments infrastructure 💻 
-- By night I work on Web 3 technologies to unlock the future of Finance 🔮
+- By night I work on Web 3 technologies to unlock the future of Finance & The internet 🔮
 - My academic background is in Finance and Computer Science 📚
 
 I'm an avid **Web3 hackathon participant**, here are a few of my **hackathon winning projects**:
