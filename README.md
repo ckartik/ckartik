@@ -11,6 +11,3 @@ I'm currently working on an award winning research initative to remove the possi
 - An [Emergent Reputation system](https://github.com/ckartik/Emergent-Reputation) that enables a web of trust similar to a decentralized PKI with zkSNARKs to allow privacy perserving probablisticly accurate social graphs.
 
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckartik&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckartik&langs_count=10&hide=css)](https://github.com/anuraghazra/github-readme-stats)
