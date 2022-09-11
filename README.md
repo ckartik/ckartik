@@ -9,4 +9,5 @@ I'm an avid **Web3 hackathon participant**, here are a few of my **winning proje
  
 I'm currently working on an award winning research initative to remove the possibilty of Sybil Attacks on Web 3.0 applications:
 - An [Emergent Reputation system](https://github.com/ckartik/Emergent-Reputation) that enables a web of trust similar to a decentralized PKI with zkSNARKs to allow privacy perserving probablisticly accurate social graphs.
+
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckartik)](https://github.com/anuraghazra/github-readme-stats)
