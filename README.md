@@ -13,4 +13,4 @@ I'm currently working on an award winning research initative to remove the possi
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckartik&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckartik&langs_count=10&exclude=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckartik&langs_count=10&hide=css)](https://github.com/anuraghazra/github-readme-stats)
